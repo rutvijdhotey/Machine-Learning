@@ -1,0 +1,23 @@
+Read Me:
+
+The training data is generated using the file : generateData.m
+
+The testing Data (randomised) is generated using the file: GenerateDataTest.m . Currently it is doing it for 50 test data points. 
+
+The Curvefit.m file has three inputs: 
+
+1. Order
+2. Number of training inputs (10 default)
+3. ln(lambda) 
+
+for the fourth part we calculate Alpha from the given value of lambda.
+
+There are four Output Figures corresponding to each Part of the code.
+
+The parts are named in the code itself.
+
+For better Understanding of the code i have also generated the HTML file which has the published copy of the code.
+
+I hope you can understand it with all the comments given.
+
+Thank You :).
